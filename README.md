@@ -8,10 +8,7 @@ This project involves creating a backend RESTful API using Node.js, Express, and
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
 - [API Endpoints](#api-endpoints)
-- [Authentication](#authentication)
-
 
 ## Installation
 
@@ -81,14 +78,6 @@ Output:
     "MATIC": 500
 }
     ```
-
-## Authentication
-
-- User authentication is handled using JWT tokens.
-- After successful login, a token is generated and required for authorized operations.
-- Logout is implemented to invalidate the JWT token.
-
-
 
 
 
