@@ -52,7 +52,7 @@ Set up the .env file as instructed in the installation section.
 **You can test them using Postman**
 
 **Postman collection:**
-`https://elements.getpostman.com/redirect?entityId=26089168-34c6e6b9-88b8-439c-808a-e20da04a8564&entityType=collection`
+`https://www.postman.com/kunjallal/workspace/public/collection/26089168-77a63705-1999-4f9a-8a10-d971dad21de5?action=share&creator=26089168`
 
 - Add Data **(POST)**
   - Endpoint: `http://localhost:3000/api/adddata`
